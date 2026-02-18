@@ -1,4 +1,3 @@
-# Advanced-Data-Structures-Project
 # Gator Air Traffic Slot Scheduler
 
 A command-driven simulator that schedules flight takeoff/landing requests across multiple runways. The scheduler advances “system time”, lands completed flights, and (re)builds a deterministic schedule for all *unsatisfied* flights using priority + tie-break rules.
